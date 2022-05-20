@@ -68,6 +68,8 @@
     <Compile Include="Assets\printer\Rotator.cs" />
     <Compile Include="Assets\Scripts\TeleportToggle.cs" />
     <Compile Include="Assets\ObjectDestroying.cs" />
+    <Compile Include="Assets\Scripts\Panel.cs" />
+    <Compile Include="Assets\Scripts\TaskManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\WorldMaterialsFree\Shaders\WorldMatHDRPFree.shader" />
