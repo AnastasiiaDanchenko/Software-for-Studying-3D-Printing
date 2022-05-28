@@ -56,6 +56,7 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Puzzle Element.cs" />
     <Compile Include="Assets\HMDinfoManager.cs" />
     <Compile Include="Assets\Hands\Hand.cs" />
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
@@ -73,6 +74,7 @@
     <Compile Include="Assets\Scripts\TeleportToggle.cs" />
     <Compile Include="Assets\ObjectDestroying.cs" />
     <Compile Include="Assets\Scripts\Panel.cs" />
+    <Compile Include="Assets\Scripts\Puzzle Controller.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\WorldMaterialsFree\Shaders\WorldMatHDRPFree.shader" />
